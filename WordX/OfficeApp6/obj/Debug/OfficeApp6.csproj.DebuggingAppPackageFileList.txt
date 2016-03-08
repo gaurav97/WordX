@@ -1,0 +1,2 @@
+bin\Debug\OfficeAppManifests\OfficeApp6Manifest.xml
+c:\users\sam-pc\documents\visual studio 2015\Projects\OfficeApp6\OfficeApp6\bin\Debug\OfficeApp6.debugapp
